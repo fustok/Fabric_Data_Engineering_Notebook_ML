@@ -3,7 +3,7 @@
 This repo contains a **one-tab master demo notebook**.
 
 ## What to run (recommended)
-- **Master notebook:** `notebooks/00_master_telemetry_demo.ipynb`
+- **Master notebook:** `notebooks/00_master_telemetry_demo_v2.ipynb`
 
 ## What you get
 - `notebooks/00_master_telemetry_demo.ipynb` — one-tab live demo with speaker notes + pause prompts
