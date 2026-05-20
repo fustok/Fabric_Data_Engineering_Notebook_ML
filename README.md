@@ -10,6 +10,7 @@ This repo contains a **one-tab master demo notebook**.
 - `data/telemetry_sample.csv` — sample manufacturing telemetry dataset
 - `sql/create_mlv.sql` — optional Materialized Lake View script (run in Lakehouse SQL endpoint)
 - `setup/setup-guide.md` — setup & run instructions
+- `links/ web addresse` — links to the Spark documentation 
 
 ## Recommended objects
 - Lakehouse: `lh_manufacturing`
